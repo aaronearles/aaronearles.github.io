@@ -3,7 +3,12 @@
 - company: Pediatrix Medical Group - Sunrise, FL (Remote)
   position: Senior Cloud Engineer, Azure
   duration: Oct, 2022 &mdash; Present
-  summary: Senior Cloud Engineer orchestrating Azure infrastructure for critical healthcare applications, implementing secure and scalable solutions through Infrastructure as Code. Manage complex vWAN architecture, application security with WAF policies, and Windows-based workloads supporting electronic medical records and pediatric care services. Drive infrastructure automation and security compliance using Terraform in a regulated healthcare environment.
+# Pediatrix
+- company: Pediatrix Medical Group - Sunrise, FL (Remote)
+  position: Senior Cloud Engineer, Azure
+  duration: Oct, 2022 &mdash; Present
+  summary: Senior Cloud Engineer orchestrating Azure infrastructure for critical healthcare applications, implementing secure and scalable solutions through Infrastructure as Code. Manage complex vWAN architecture, application security with WAF policies, and Windows-based workloads supporting electronic medical records and pediatric care services. Drive infrastructure automation and security compliance using Terraform in a regulated healthcare environment.<ul class="resume-item-list"><li>Architected and managed Azure Virtual WAN infrastructure supporting 80+ hospital partners using Infrastructure as Code (Terraform), ensuring secure and reliable connectivity</li><li>Implemented standardized Application Gateway configurations and security-approved WAF policies across healthcare applications</li><li>Developed automated VM deployment pipeline using Terraform, Ansible, and GitHub Actions, achieving zero-touch provisioning and configuration</li><li>Orchestrated datacenter migrations and established ExpressRoute connectivity through Equinix Fabric using Infrastructure as Code</li><li>Designed and implemented automated rolling update strategy for Windows VMs, incorporating health checks and automated failback through Application Gateway</li><li>Modernized monitoring infrastructure with standardized health probes, custom dashboards, and intelligent alerting systems</li></ul>
+  # summary: Senior Cloud Engineer orchestrating Azure infrastructure for critical healthcare applications, implementing secure and scalable solutions through Infrastructure as Code. Manage complex vWAN architecture, application security with WAF policies, and Windows-based workloads supporting electronic medical records and pediatric care services. Drive infrastructure automation and security compliance using Terraform in a regulated healthcare environment.
   
 # Defi
 - company: Defi Solutions - King of Prussia, PA (Remote)
