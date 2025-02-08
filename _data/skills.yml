@@ -1,10 +1,10 @@
 # Skills
 
-- skill: Cloud
-  description: I do lots of cloud stuff like design network, vpn, expressroutes, vwan, terraform, etc.
+- skill: Cloud & Infrastructure as Code
+  description: Azure Enterprise Architecture, Virtual WAN, Application Gateway/WAF, Virtual Networks, Private Link, Load Balancers, NSGs, Express Route, Terraform, Infrastructure as Code, VMware, Hyper-V
 
-- skill: Network
-  description: Cisco, Palo Alto, Check Point, Fortinet, F5, Silverpeak, HP, Juniper, Unifi
+- skill: Network Security & Design
+  description: Enterprise Network Architecture, SD-WAN, MPLS, BGP/OSPF, Palo Alto, Cisco, Fortinet, Check Point, F5, Silverpeak, HP, Juniper, UniFi, VPN Technologies, Load Balancing, High Availability Design
 
-- skill: System
-  description: Windows, Linux, VMWare, Hyper-V, Azure
+- skill: Systems & Infrastructure
+  description: Windows Server, Linux, Active Directory, Infrastructure Monitoring, Capacity Planning, Business Continuity, Disaster Recovery, Healthcare Compliance (HIPAA), Enterprise Architecture
