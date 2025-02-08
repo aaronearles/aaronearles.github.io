@@ -9,7 +9,7 @@
 - company: Defi Solutions - King of Prussia, PA (Remote)
   position: Lead Cloud Network Engineer
   duration: Nov, 2015 &mdash; Oct, 2022
-  summary: Network Architecture Lead driving enterprise-wide Azure cloud migration strategy and implementation. Architected and delivered complex hybrid cloud networking solutions integrating legacy infrastructure with Azure services.<ul class="resume-item-list"><li>Designed and implemented multi-VNET Azure architecture with hybrid connectivity utilizing Palo Alto virtual firewalls and Cisco routing infrastructure</li><li>Orchestrated comprehensive Azure networking implementation including IP address management, network security groups, application gateways, load balancers, and private endpoints</li><li>Led transformation of legacy datacenter infrastructure to distributed cloud architecture while maintaining business continuity across MPLS and VPN connections</li></ul>
+  summary: Network Engineering Lead driving enterprise Azure cloud migration strategy and implementation. Architected and delivered complex hybrid cloud networking solutions integrating legacy infrastructure with Azure services.<ul class="resume-item-list"><li>Designed and implemented multi-VNET Azure architecture with hybrid connectivity utilizing Palo Alto virtual firewalls and Cisco routing infrastructure</li><li>Orchestrated comprehensive Azure networking implementation including IP address management, network security groups, application gateways, load balancers, and private endpoints</li><li>Led transformation of legacy datacenter infrastructure to distributed cloud architecture while maintaining business continuity across MPLS and VPN connections</li></ul>
   
 # AAM
 - company: American Axle & Manufacturing - Detroit, MI
