@@ -1,19 +1,36 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
+# Pediatrix
+- company: Pediatrix Medical Group -- Remote
+  position: Senior Cloud Engineer, Azure
+  duration: Oct, 2022 &mdash; Present
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Defi
+- company: Defi Solutions -- Remote
+  position: Lead Cloud Network Engineer
+  duration: Nov, 2015 &mdash; Oct, 2022
+  summary: Network lead role responsible for design and implementation of Microsoft Azure cloud migration of legacy/on-prem hosting environments.	<ul class="resume-item-list"><li>Network architecture design including complex interconnected VNETs and S2S connections leveraging Palo Alto virtual firewall appliances</li><li>Microsoft Azure design, build, and maintenance of network components, including VNET/Subnet, NVA Firewalls, Routing, VPN/S2S, NSG, Application Gateway, Load Balancer, Private Endpoint, Private DNS.</li><li>Responsible for supporting existing datacenter-hosted commercial environments, implementing, and supporting various distributed system architecture, client MPLS and VPN connectivity leveraging Palo Alto firewalls and Cisco CPE.</li></ul>
 
+# AAM
+- company: American Axle & Manufacturing -- Detroit, MI
+  position: Network Engineer
+  duration: Oct, 2014  &mdash; Nov, 2015
+  summary: Responsible for managing 30+ site global enterprise network supporting production manufacturing operations and geographically diverse virtual datacenter. <ul class="resume-item-list"><li>HP Comware switching environment with redundant core leveraging IRF and LACP</li><li>Cisco routers running OSPF and BGP on Sprint MPLS network</li><li>Fortinet firewalls exchanging OSPF routes between Cisco MPLS and HP core and providing VPN failover</li><li>Researched, designed, and tested Silverpeak WAN Optimization and SD-WAN solution to fit highly available network architecture</li><li>Manage Juniper wireless network globally (32 sites, 5 controllers, 450 APs)</li><li>Performed wireless site survey, RF analysis (Fluke AirMagnet), and wireless enhancement project to implement high density, low interference design</li><li>Utilize Orion and Manage Engine Netflow Analyzer for alerting and traffic analysis</li><li>F5 load balancer management for production and development environments</li><li>Design datacenter space, electrical, UPS and cooling requirements and lead construction management for several new sites</li><li>Design and perform global power audit of all MDF and IDF locations to ensure redundant power sources, proper UPS capacity, and clear documentation</li><li>Responsible for WAN/ISP bandwidth utilization monitoring and capacity planning</li><li>Provide 24 hour on-call network support for U.S. and international sites</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# MSGCU
+- company: Michigan Schools & Government Credit Union -- Clinton Township, MI
+  position: Network Administrator
+  duration: 2011  &mdash; 2013
+  summary: Did some stuff and here is a list. <ul class="resume-item-list"><li>one</li><li>two</li><li>three</li></ul>
+
+# Fiserv
+- company: Fiserv -- Troy, MI
+  position: Network Analyst
+  duration: 2009  &mdash; 2011
+  summary: Did some stuff and here is a list. <ul class="resume-item-list"><li>one</li><li>two</li><li>three</li></ul>
+
+# Advicon
+- company: Advicon Computer Services
+  position: IT Consultant
+  duration: 2004  &mdash; 2008
+  summary: Did some stuff and here is a list. <ul class="resume-item-list"><li>one</li><li>two</li><li>three</li></ul>
