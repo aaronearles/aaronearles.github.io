@@ -3,13 +3,13 @@
 - company: Pediatrix Medical Group - Sunrise, FL (Remote)
   position: Senior Cloud Engineer, Azure
   duration: Oct, 2022 &mdash; Present
-  summary: Responsible for Azure environments and cloud hosted applications supporting critical medical practice operations. <ul class="resume-item-list"><li>one</li><li>two</li><li>three</li></ul>
+  summary: Senior Cloud Engineer orchestrating Azure infrastructure for critical healthcare applications, implementing secure and scalable solutions through Infrastructure as Code. Manage complex vWAN architecture, application security with WAF policies, and Windows-based workloads supporting electronic medical records and pediatric care services. Drive infrastructure automation and security compliance using Terraform in a regulated healthcare environment.
 
 # Defi
 - company: Defi Solutions - King of Prussia, PA (Remote)
   position: Lead Cloud Network Engineer
   duration: Nov, 2015 &mdash; Oct, 2022
-  summary: Network lead role responsible for design and implementation of Microsoft Azure cloud migration of legacy/on-prem hosting environments.<ul class="resume-item-list"><li>Network design of complex interconnected VNETs and VPN connections leveraging Palo Alto virtual firewall appliances</li><li>Microsoft Azure design, build, and maintenance of all major network components including IP scheme, VNETs, subnets, NVA Firewalls, Routing, VPN, NSG, Application Gateway, Load Balancer, Private Endpoint, Private DNS</li><li>Responsible for supporting existing datacenter-hosted commercial environments, implementing, and supporting distributed system architecture, client MPLS and VPN connectivity leveraging Palo Alto Firewalls and Cisco Routers</li></ul>
+  summary: Network Architecture Lead driving enterprise-wide Azure cloud migration strategy and implementation. Architected and delivered complex hybrid cloud networking solutions integrating legacy infrastructure with Azure services. Key Achievements&#58; <ul class="resume-item-list"><li>Designed and implemented multi-VNET Azure architecture with hybrid connectivity utilizing Palo Alto virtual firewalls and Cisco routing infrastructure</li><li>Orchestrated comprehensive Azure networking implementation including IP address management, network security groups, application gateways, load balancers, and private endpoints</li><li>Led transformation of legacy datacenter infrastructure to distributed cloud architecture while maintaining business continuity across MPLS and VPN connections</li></ul>
 
 # AAM
 - company: American Axle & Manufacturing - Detroit, MI
@@ -21,16 +21,16 @@
 - company: Michigan Schools & Government Credit Union - Clinton Township, MI
   position: Network Administrator
   duration: 2011  &mdash; 2013
-  summary: Lead role supporting 12 sites and ~300 employee enterprise network consisting of Cisco routers and switches, MPLS network w/ BGP and Wireless WAN backup.<ul class="resume-item-list"><li>one</li><li>two</li><li>three</li></ul>
+  summary: <li>Architected and managed multi-site enterprise network infrastructure supporting 12 locations and 300+ users</li><li>Engineered resilient MPLS backbone with BGP routing and wireless WAN redundancy using Cisco networking stack</li><li>Delivered enterprise-grade network reliability through strategic implementation of redundant systems and failover protocols</li>
 
 # Fiserv
 - company: Fiserv - Troy, MI
   position: Network Analyst
   duration: 2009  &mdash; 2011
-  summary: Client facing managed services role supporting hundreds of credit unions across US.<ul class="resume-item-list"><li>Cisco routing and switching, MPLS, and VPN</li><li>Windows Server and Active Directory administration</li><li>Advise clients on network design, server and application decisions</li><li>Migrated ~150 clients to MPLS infrastructure</li><li>Managed Cisco routers and switches, SonicWall and Fortinet firewalls and VPN</ul>
+  summary: <li>Delivered managed network services for 150+ financial institutions, providing comprehensive infrastructure support and strategic guidance</li><li>Successfully executed large-scale MPLS migration project for 150 credit unions, ensuring minimal disruption to critical financial operations</li><li>Architected and maintained secure network solutions utilizing Cisco routing/switching, SonicWall and Fortinet security platforms</li><li>Provided technical leadership and consulting for network design, Windows Server infrastructure, and Active Directory implementations</li>
 
 # Advicon
 - company: Advicon Computer Services - Clinton Township, MI
   position: IT Consultant
   duration: 2004  &mdash; 2008
-  summary: Managed services provider supporting local small businesses. Supervised ~10 technicians providing desktop imaging, av, and break-fix support.<ul class="resume-item-list"><li>Windows Server</li><li>Microsoft Exchange</li><li>Symantec AV</li><li>Preventative maintenance, backups, and support for key client accounts</li><li>Deploy SMB Firewall appliances and VPN connectivity</li></ul>
+  summary: <li>Led technical team of 10 IT professionals delivering comprehensive managed services to SMB clients, ensuring high client satisfaction and operational excellence</li><li>Managed end-to-end implementation of Windows Server, Exchange, and security solutions while maintaining critical business continuity</li><li>Architected and deployed secure network infrastructure including firewall implementation, VPN connectivity, and robust backup solutions</li><li>Established preventative maintenance protocols and standardized support procedures across client portfolio</li>
