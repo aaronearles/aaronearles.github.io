@@ -4,33 +4,33 @@
   position: Senior Cloud Engineer, Azure
   duration: Oct, 2022 &mdash; Present
   summary: Senior Cloud Engineer orchestrating Azure infrastructure for critical healthcare applications, implementing secure and scalable solutions through Infrastructure as Code. Manage complex vWAN architecture, application security with WAF policies, and Windows-based workloads supporting electronic medical records and pediatric care services. Drive infrastructure automation and security compliance using Terraform in a regulated healthcare environment.
-
+  
 # Defi
 - company: Defi Solutions - King of Prussia, PA (Remote)
   position: Lead Cloud Network Engineer
   duration: Nov, 2015 &mdash; Oct, 2022
-  summary: Network Architecture Lead driving enterprise-wide Azure cloud migration strategy and implementation. Architected and delivered complex hybrid cloud networking solutions integrating legacy infrastructure with Azure services.</li><ul class="resume-item-list"><li>Designed and implemented multi-VNET Azure architecture with hybrid connectivity utilizing Palo Alto virtual firewalls and Cisco routing infrastructure</li><li>Orchestrated comprehensive Azure networking implementation including IP address management, network security groups, application gateways, load balancers, and private endpoints</li><li>Led transformation of legacy datacenter infrastructure to distributed cloud architecture while maintaining business continuity across MPLS and VPN connections</li></ul>
-
+  summary: Network Architecture Lead driving enterprise-wide Azure cloud migration strategy and implementation. Architected and delivered complex hybrid cloud networking solutions integrating legacy infrastructure with Azure services.<ul class="resume-item-list"><li>Designed and implemented multi-VNET Azure architecture with hybrid connectivity utilizing Palo Alto virtual firewalls and Cisco routing infrastructure</li><li>Orchestrated comprehensive Azure networking implementation including IP address management, network security groups, application gateways, load balancers, and private endpoints</li><li>Led transformation of legacy datacenter infrastructure to distributed cloud architecture while maintaining business continuity across MPLS and VPN connections</li></ul>
+  
 # AAM
 - company: American Axle & Manufacturing - Detroit, MI
   position: Network Engineer
   duration: Oct, 2014  &mdash; Nov, 2015
-  summary: Led global network architecture and operations across 30+ manufacturing sites, architecting high-availability infrastructure supporting critical production systems and geographically diverse virtual datacenters. Engineered redundant multi-vendor network utilizing HP IRF core switching, Cisco MPLS with OSPF/BGP routing, and Fortinet security platforms. Spearheaded SD-WAN transformation initiative and managed enterprise-scale Juniper wireless deployment (450+ APs) across 32 sites. Directed comprehensive infrastructure monitoring and capacity planning using SolarWinds Orion and ManageEngine NetFlow analysis. Orchestrated multiple datacenter construction projects, managing power, cooling, and infrastructure requirements while maintaining 24/7 global operations support. Implemented F5 load balancing solutions and performed regular network optimization through RF analysis and wireless site surveys.
-
+  summary: Led global network architecture and operations across 30+ manufacturing sites, architecting high-availability infrastructure supporting critical production systems and geographically diverse virtual datacenters.<ul class="resume-item-list"><li>Engineered redundant multi-vendor network utilizing HP IRF core switching, Cisco MPLS with OSPF/BGP routing, and Fortinet security platforms.</li><li>Spearheaded SD-WAN transformation initiative.</li><li>Managed enterprise-scale Juniper wireless deployment (450+ APs) across 32 sites.</li><li>Directed comprehensive infrastructure monitoring and capacity planning.</li><li>Orchestrated multiple datacenter construction projects, managing power, cooling, and infrastructure requirements.</li><li>Implemented F5 load balancing solutions.</li><li>Performed network optimization through RF analysis and wireless site surveys.
+  
 # MSGCU
 - company: Michigan Schools & Government Credit Union - Clinton Township, MI
   position: Network Administrator
   duration: 2011  &mdash; 2013
-  summary: Led enterprise network architecture and operations supporting 12 locations and 300+ users, designing and implementing high-availability infrastructure built on Cisco networking technologies. Engineered resilient MPLS backbone featuring BGP routing and wireless WAN redundancy, ensuring seamless business operations through strategic implementation of failover protocols and redundant systems. Maintained enterprise-grade network reliability while optimizing performance across all business locations.
-
+  summary: Managed enterprise network operations across 12 locations supporting 300+ users. Designed and implemented high-availability infrastructure leveraging Cisco technologies, including MPLS backbone with BGP routing and wireless WAN redundancy. Optimized network performance and reliability through strategic implementation of failover protocols and redundant systems.
+  
 # Fiserv
 - company: Fiserv - Troy, MI
   position: Network Analyst
   duration: 2009  &mdash; 2011
-  summary: Led managed services delivery for 150+ credit unions nationwide, providing comprehensive infrastructure support and strategic technology guidance for critical financial operations. Orchestrated large-scale MPLS migration initiative while maintaining business continuity across diverse financial institutions. Architected and maintained secure network solutions leveraging multi-vendor platforms including Cisco routing/switching, SonicWall, and Fortinet security appliances. Delivered expert consulting and implementation services for network design, Windows Server infrastructure, and Active Directory, ensuring robust and secure operations for financial sector clients.
-
+  summary: Directed managed services for 150+ credit unions nationwide, leading large-scale MPLS migration while ensuring continuous operations. Designed and maintained secure multi-vendor network solutions including Cisco routing/switching and diverse security platforms. Provided strategic consulting for financial institutions' network architecture, Windows Server infrastructure, and Active Directory implementations.
+  
 # Advicon
 - company: Advicon Computer Services - Clinton Township, MI
   position: IT Consultant
   duration: 2004  &mdash; 2008
-  summary: Led technical operations and team of 10 IT professionals delivering comprehensive managed services to SMB clients, overseeing end-to-end implementation of Windows Server, Exchange, and security solutions. Architected secure network infrastructure and standardized service delivery framework, focusing on preventative maintenance, business continuity, and robust backup strategies. Established and maintained client security through strategic deployment of firewall systems and VPN connectivity while ensuring consistent service quality across diverse client portfolio.
+  summary: Managed technical team of 10 IT professionals providing comprehensive IT services to SMB clients. Implemented standardized service delivery framework encompassing Windows Server, Exchange, and security solutions. Developed and executed preventative maintenance protocols and backup strategies while ensuring consistent service quality through documented procedures and best practices.
