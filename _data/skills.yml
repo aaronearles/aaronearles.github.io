@@ -1,7 +1,7 @@
 # Skills
 
-- skill: Cloud & Infrastructure as Code
-  description: Azure Enterprise Architecture, Virtual WAN, Application Gateway/WAF, Virtual Networks, Private Link, Load Balancers, NSGs, Express Route, Terraform, Infrastructure as Code
+- skill: Cloud
+  description: Azure Enterprise Architecture, Virtual WAN, Express Route, VPN, Application Gateway, WAF Policy, Virtual Networks, Private Link, Private DNS, Load Balancers, Network Security Group (NSG), Terraform, Infrastructure as Code, GitHub Actions
 
 - skill: Network Design & Security
   description: Enterprise Network Architecture, SD-WAN, MPLS, BGP, Palo Alto, Cisco, Fortinet, Check Point, F5, Silverpeak, HP, Juniper, UniFi, VPN Technologies, Load Balancing, High Availability Design
