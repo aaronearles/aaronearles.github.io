@@ -34,10 +34,10 @@ resume_header_intro: "<p>Results-driven Cloud Engineer combining deep Azure expe
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
-# resume_section_education:       true
+resume_section_education:       true
 # resume_section_projects:        true
 resume_section_skills:          true
-# resume_section_recognition:     true
+resume_section_recognition:     true
 # resume_section_links:           true
 # resume_section_associations:    true
 # resume_section_interests:       true

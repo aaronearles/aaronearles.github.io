@@ -3,19 +3,19 @@
 - company: Pediatrix Medical Group - Sunrise, FL (Remote)
   position: Senior Cloud Engineer, Azure
   duration: Oct, 2022 &mdash; Present
-  summary: Lead Azure cloud engineer managing critical healthcare infrastructure that supports newborn care and medical records. Design and build secure, scalable solutions using automation and Infrastructure as Code.<ul class="resume-item-list"><li>Manage Azure Virtual WAN network connecting 80+ hospitals using Terraform, ensuring reliable and secure connectivity</li><li>Build and maintain standard security configurations for public-facing healthcare applications using Application Gateway and WAF policies</li><li>Develop automated server deployment process using Terraform and Ansible, reducing manual work and human error</li><li>Support datacenter migrations by establishing new cloud network connections through ExpressRoute</li><li>Create automated system for safely updating Windows servers while maintaining application availability</li><li>Improve monitoring with custom dashboards and targeted alerts to prevent service disruptions</li></ul>
+  summary: Senior technichal role managing critical healthcare infrastructure that supports newborn care and medical records. Design and build secure, scalable solutions using automation and Infrastructure as Code.<ul class="resume-item-list"><li>Manage Azure vWAN/IPSec network connecting 80+ hospital partners using Terraform</li><li>Build and maintain standardized security configurations for internet facing healthcare applications using Application Gateway and WAF policies</li><li>Develop automated server deployment process using Terraform and Ansible, reducing manual work and human error</li><li>Support datacenter migrations by establishing new cloud network connections through ExpressRoute</li><li>Create automated system for safely updating Windows servers while maintaining application availability</li><li>Improve monitoring with custom dashboards, intelligent health probes, and targeted alerts to prevent service disruptions</li></ul>
 
 # Defi
 - company: Defi Solutions - King of Prussia, PA (Remote)
   position: Lead Cloud Network Engineer
   duration: Nov, 2015 &mdash; Oct, 2022
-  summary: Led network engineering team through migration from traditional infrastructure to Azure cloud. Designed and built hybrid network solutions connecting existing systems with new cloud services.<ul class="resume-item-list"><li>Built multi-region Azure network architecture using Palo Alto virtual firewalls integrated with existing Cisco infrastructure</li><li>Implemented comprehensive cloud networking including security groups, load balancers, and private connections</li><li>Managed migration from legacy datacenter to cloud while maintaining network connectivity and uptime</li></ul> 
+  summary: Led network engineering effort for migration from traditional infrastructure to Azure cloud. Designed and built hybrid network solutions connecting existing systems with new cloud services.<ul class="resume-item-list"><li>Built multi-region Azure network architecture using Palo Alto virtual NVA firewalls integrated with existing Cisco infrastructure</li><li>Implemented comprehensive cloud networking including VNET Hub & Spoke, Network Security Groups, Internal Load Balancers, Application Gateway/WAF, API Management, and Private Endpoint Connections with PrivateDNS integration</li><li>Managed migration from legacy datacenter to cloud while maintaining commercial network connectivity and uptime</li></ul> 
 
 # AAM
 - company: American Axle & Manufacturing - Detroit, MI
   position: Network Engineer
   duration: Oct, 2014  &mdash; Nov, 2015
-  summary: Managed global network supporting 30+ manufacturing sites and distributed datacenter operations. Focused on keeping production systems running reliably.<ul class="resume-item-list"><li>Built redundant network using HP core switches, Cisco MPLS routing, and Fortinet security</li><li>Led project to evaluate and implement SD-WAN technology for better network reliability</li><li>Managed large Juniper wireless network covering 32 sites with 450 access points</li><li>Set up network monitoring and capacity planning to prevent outages</li><li>Led datacenter builds including power, cooling, and network infrastructure</li><li>Improved wireless coverage through site surveys and performance testing</li></ul>
+  summary: Managed global network supporting 30+ manufacturing sites and distributed datacenter operations. Focused on keeping production systems running reliably.<ul class="resume-item-list"><li>Built redundant network using HP Comware switches, Juniper WLAN, Cisco routers, and Fortinet firewalls providing diverse path HA and redundant WAN connectivity</li><li>Led project to evaluate and implement Silver Peak SD-WAN technology for WAN Optimization and increased reliability</li><li>Managed large Juniper wireless network covering 32 sites with 450 access points</li><li>Set up network monitoring and capacity planning to prevent outages</li><li>Led datacenter builds including power, cooling, and network infrastructure</li><li>Improved wireless coverage through site surveys and performance testing</li></ul>
 
 # MSGCU
 - company: Michigan Schools & Government Credit Union - Clinton Township, MI
@@ -27,7 +27,7 @@
 - company: Fiserv - Troy, MI
   position: Network Analyst
   duration: 2009  &mdash; 2011
-  summary: Provided managed network services for 150+ credit unions. Led project to upgrade credit unions to MPLS networking while keeping their systems running. Built secure networks using Cisco equipment and multiple firewall platforms. Advised credit unions on network design and Windows infrastructure improvements.
+  summary: Provided managed network services for 150+ credit unions. Supported major project to upgrade all clients to MPLS networking. Built secure networks using Cisco equipment and multiple firewall platforms. Advised credit unions on network design and Windows infrastructure improvements.
 
 # Advicon
 - company: Advicon Computer Services - Clinton Township, MI
