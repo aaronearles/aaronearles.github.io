@@ -146,7 +146,7 @@
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
           <h4 class="resume-item-details" itemprop="award">{{ recognition.award }}</h4>
-          <h5 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h5>
+          <p class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</p>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
         </div>
         {% endfor %}
